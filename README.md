@@ -15,8 +15,8 @@ This project implements a music recommendation system. The system clusters songs
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/music-recommender.git
-    cd music-recommender
+    git clone https://github.com/yourusername/Music-Recommender.git
+    cd Music-Recommender
     ```
 
 2. Create a virtual environment and activate it:
